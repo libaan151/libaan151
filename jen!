@@ -1,4 +1,6 @@
-
+-- // Dependencies
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/libaan151/libaan151/main/jen!"))()
+local AimLockSettings = Aiming.AimLock
 
 -- // Services
 local Workspace = game:GetService("Workspace")
